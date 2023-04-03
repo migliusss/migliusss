@@ -1,5 +1,8 @@
 # Hello, I’m Migle!
 
+![giphy](https://user-images.githubusercontent.com/115370256/229609937-5e7afed7-1a80-443e-a6c5-a03e29a0108e.gif)
+
+
 ## 🦋 About me
   I’m an IT student at University of Sørøst Norway. I have started my IT journey in 2022, which means I’m pretty new in programming and web development.
 
