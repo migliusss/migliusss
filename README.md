@@ -1,6 +1,6 @@
-# Hello, I’m Migle!
+# 🌸 Hello, I’m Migle!
 
-![giphy](https://user-images.githubusercontent.com/115370256/229609937-5e7afed7-1a80-443e-a6c5-a03e29a0108e.gif)
+  ![giphy](https://user-images.githubusercontent.com/115370256/229609937-5e7afed7-1a80-443e-a6c5-a03e29a0108e.gif)
 
 
 ## 🦋 About me
