@@ -8,6 +8,7 @@
 
   I have taken courses in HTML and CSS and wish to start learning JavaScript in the near future. 
 
+  I have a huge interest in learning how programs work and have a goal to be able to develope them myself. 
   I wish to develop user friendly interfaces with pleasant design. 
 
 ## 🐥 Currently Learning
