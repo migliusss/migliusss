@@ -6,7 +6,8 @@
 ## 🦋 About me
   I’m an IT student at University of Sørøst Norway. I have started studying in 2022, which means I’m pretty new in programming and web development.
 
-  I have taken courses in HTML and CSS and wish to start learning JavaScript in the near future. 
+  I have taken courses in HTML and CSS and started to learn JavaScript. In university I am learning OOP with Java, 
+  and also taken a course in SQL and Database Administration. 
 
   I have a huge interest in learning how programs work and have a goal to be able to develope them myself. 
   I wish to develop interfaces that are accesible to everyone, and are user friendly. 
@@ -14,7 +15,7 @@
 ## 🐥 Currently Learning
 
   - Java.
-  - SQL.
+  - JavaScript. 
 
 <!--
 **migliusss/migliusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
