@@ -4,7 +4,7 @@
 
 
 ## 🦋 About me
-  I’m an IT student at University of Sørøst Norway. I have started studying in 2022, which means I’m pretty new in programming and web development.
+  I’m an IT student at University of Sørøst Norway. I have started studying in 2022, which means I’m pretty new in programming.
 
   I have taken courses in HTML and CSS and started to learn JavaScript. In university I am learning OOP with Java, 
   and also taken a course in SQL and Database Administration. 
