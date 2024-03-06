@@ -26,3 +26,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+## Currently working on
+
+<ul>
+  <li><a href="https://github.com/Kuba-AS/APP200V">APP200V - Kuba AMIL</a></li>
+  <li><a href="https://github.com/migliusss/Color-by-Number">Color by Number</a></li>
+</ul>
+
+###
