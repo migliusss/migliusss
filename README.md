@@ -29,8 +29,7 @@
 
 ## Currently working on
 
-- 🔭 I’m currently working on [Color by Number](https://github.com/migliusss/Color-by-Number)
-
-- 🔭 I’m currently working on [APP200V - Kuba AMIL](https://github.com/Kuba-AS/APP200V)
+- [Color by Number](https://github.com/migliusss/Color-by-Number)
+- [APP200V - Kuba AMIL](https://github.com/Kuba-AS/APP200V)
 
 ###
