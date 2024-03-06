@@ -29,9 +29,7 @@
 
 ## Currently working on
 
-<ul>
-  <li><a href="https://github.com/Kuba-AS/APP200V">APP200V - Kuba AMIL</a></li>
-  <li><a href="https://github.com/migliusss/Color-by-Number">Color by Number</a></li>
-</ul>
+- [APP200V - Kuba AMIL](https://github.com/Kuba-AS/APP200V)
+- [Color by Number](https://github.com/migliusss/Color-by-Number)
 
 ###
