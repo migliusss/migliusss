@@ -1,9 +1,8 @@
 <h1 align="left">🌸 Hello, I'm Migle</h1>
-###
 <p align="left">I'm an IT student from Norway with a passion for accessible and user friendly digital experiences.</p>
-###
 
 ## 🦋 About me
+
 ###
 
 <p align="left">🧚🏼‍♀️ Creating bugs since 2022.<br>📖 I'm currently learning JavaScript, React, PHP. <br>🎯 My goal is to become a Full-Stack Developer.</p>
