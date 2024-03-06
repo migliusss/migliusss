@@ -1,7 +1,7 @@
 <h1 align="left">🌸 Hello, I'm Migle</h1>
 <p align="left">I'm an IT student from Norway with a passion for accessible and user friendly digital experiences.</p>
 
-## 🦋 About me
+## About me
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-## 🐛 I code with
+## I code with
 
 ###
 
