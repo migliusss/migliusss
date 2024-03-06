@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an IT student from Norway with passion for accessible and use friendly digital experiences.</p>
+<p align="left">I'm an IT student from Norway with a passion for fun, accessible and use friendly digital experiences.</p>
 
 ###
 
