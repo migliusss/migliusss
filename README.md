@@ -1,20 +1,16 @@
 <h1 align="left">🌸 Hello, I'm Migle</h1>
-
+###
+<p align="left">I'm an IT student from Norway with a passion for accessible and user friendly digital experiences.</p>
 ###
 
-<p align="left">I'm an IT student from Norway with a passion for accessible and use friendly digital experiences.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
+## 🦋 About me
 ###
 
 <p align="left">🧚🏼‍♀️ Creating bugs since 2022.<br>📖 I'm currently learning JavaScript, React, PHP. <br>🎯 My goal is to become a Full-Stack Developer.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+## 🐛 I code with
 
 ###
 
@@ -33,5 +29,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
