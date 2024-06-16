@@ -9,13 +9,6 @@
 
 ###
 
-## Currently working on
-
-- [Color by Number](https://github.com/migliusss/Color-by-Number)
-- [APP200V - Kuba AMIL](https://github.com/Kuba-AS/APP200V)
-
-###
-
 ## I code with
 
 ###
