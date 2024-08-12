@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">🧚🏼‍♀️ Creating bugs since 2022.<br>📖 I'm currently learning JavaScript, React, PHP. <br>🎯 My goal is to become a Full-Stack Developer.</p>
+<br>🎯 My goal is to become a Full-Stack Developer.</p>
 
 ###
 
