@@ -3,7 +3,7 @@
 
 ## About me
 
-<br>🎯 My goal is to become a Full-Stack Developer.</p>
+🎯 My goal is to become a Full-Stack Developer.</p>
 
 ###
 
