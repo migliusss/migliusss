@@ -1,5 +1,5 @@
 <h1 align="left">Hello, </h1>
-<p align="left">🌸 I'm an IT student from Norway with an interest in creating accessible and user friendly digital experiences.</p>
+<p align="left">🌸 I'm an IT student from Norway with an interest in creating accessible and user friendly application.</p>
 
 ## About me
 
