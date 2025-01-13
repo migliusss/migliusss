@@ -1,12 +1,12 @@
 <h1 align="left">Hello, </h1>
-<p align="left">🌸 I'm a 3rd year IT student from Norway with an interest in creating accessible and user friendly application.</p>
+<p align="left">🌸 I'm an IT student from Norway with an interest in creating accessible and user friendly application.</p>
 
 ## About me
 
 <p> 🎯 My goal is to become a Full-Stack Developer.</p>
 <p> 🦋 Learning DevOps Roadmap for Beginners. </p>
-🐥 Writing Bachelor Thesis about Deployment and Knowledge Graphs DB. 
-🪴 **Currently Working On:** Happy-Plant Application (Practicing what I learn!)
+<p> 🐥 Writing Bachelor Thesis about Deployment and Knowledge Graphs DB. </p>
+<p> 🪴 **Currently Working On:** Happy-Plant Application (Practicing what I learn!) </p>
 
 ###
 
