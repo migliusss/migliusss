@@ -1,7 +1,7 @@
 <h1 align="left">Hello, </h1>
 <p align="left">🌸 I'm an IT student from Norway with an interest in creating accessible and user friendly application.</p>
 
-## About me
+## About Me
 
 <p> 🎯 My goal is to become a Full-Stack Developer.</p>
 <p> 🦋 Learning DevOps Roadmap for Beginners. </p>
