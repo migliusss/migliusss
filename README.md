@@ -6,7 +6,7 @@
 <p> 🎯 My goal is to become a Full-Stack Developer.</p>
 <p> 🦋 Learning DevOps Roadmap for Beginners. </p>
 <p> 🐥 Writing Bachelor Thesis about Deployment and Knowledge Graphs DB. </p>
-<p> 🪴 **Currently Working On:** Happy-Plant Application (Practicing what I learn!) </p>
+<p> 🪴 Currently Working On: Happy-Plant Application to pactice what I learn </p>
 
 ###
 
