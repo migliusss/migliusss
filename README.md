@@ -1,5 +1,6 @@
 <h1 align="left">Hello, </h1>
-<p align="left">🌸 I'm an IT student from Norway with an interest in creating accessible and user friendly application.</p>
+<p align="left">🌸 I'm an IT student from Norway with an interest in creating accessible and user friendly applications.</p>
+<p align="left">I am interested in Backend Development, DevOps, and Frontend. Trying everyday to learn more about it. </p>
 
 ## About Me
 
