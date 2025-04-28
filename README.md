@@ -5,7 +5,7 @@
 ## About Me
 
 <p> 🎯 My goal is to become a Full-Stack Developer.</p>
-<p> 🐥 Currently Working On: Writing Bachelor Thesis about Deployment of Stateful Graph Database Appllication with Kubernetes. </p>
+<p> 🐥 Currently Working On: Writing Bachelor Thesis about deployment of stateful graph database appllication with Kubernetes. </p>
 
 ###
 
