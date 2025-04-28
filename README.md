@@ -5,8 +5,7 @@
 ## About Me
 
 <p> 🎯 My goal is to become a Full-Stack Developer.</p>
-<p> 🪴 Currently Working On: Happy-Plant Application. </p>
-<p> 🐥 Writing Bachelor Thesis about Deployment with Kubernetes Operators. </p>
+<p> 🐥 Currently Working On: Writing Bachelor Thesis about Deployment of Stateful Graph Database Appllication with Kubernetes. </p>
 
 ###
 
