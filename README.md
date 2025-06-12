@@ -4,7 +4,7 @@
 ## About Me
 
 <p> 🎯 My goal is to become a Full-Stack Developer.</p>
-<p> 🐥 Currently Working On: <a src=https://github.com/migliusss/happy-plant>Happy Plant Application</a></p>
+<p> 🐥 Currently Working On: <a href=https://github.com/migliusss/happy-plant>Happy Plant Application</a></p>
 
 ###
 
