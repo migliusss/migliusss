@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Migle</h1>
-<p align="left">I am iinterested in Backend Development, DevOps, and Frontend, and trying everyday to learn more about it. </p>
+<p align="left">I am interested in Backend Development, DevOps, and Frontend, and trying everyday to learn more about it. </p>
 
 ## About Me
 
